@@ -1,0 +1,6 @@
+El login permite identificar a un usuario antes de darle acceso a ciertas funciones.
+Una vez autenticado, el sistema puede decidir qué acciones están permitidas.
+Algunas rutas deben estar protegidas porque contienen información privada o registros internos.
+Si no se protegen, cualquier persona podría modificar datos o ver información no autorizada.
+No se deben exponer públicamente contraseñas, documentos de identidad, teléfonos, direcciones, tokens ni claves de API.
+La protección de datos ayuda a mantener la privacidad y la confianza de la comunidad.
